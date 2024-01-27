@@ -10,4 +10,4 @@
 
 ✓ যেকোনো বই, ইউজার চাইলে সেটি তার Favorite হিসেবে সিলেক্ট করতে পারে । Add to Cart বাটনের পাশে Favorite বাটন আছে । কোন বই আগে থেকে Favorite হিসেবে থাকলে সেটি Unfavourite হবে ।
 
-#### ✔Live Link: 🎈 <a href="https://65a7e954e719a0044bfa5c8d--lighthearted-moxie-b631e0.netlify.app/" target="_blank">link</a>
+#### ✔Live Link: 🎈 <a href="https://65b47d1661304e574872f3bb--starlit-kangaroo-184d97.netlify.app/" target="_blank">link</a>
