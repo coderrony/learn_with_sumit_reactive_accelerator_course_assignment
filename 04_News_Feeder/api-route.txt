@@ -1,0 +1,10 @@
+http://localhost:8000/v2/top-headlines
+
+http://localhost:8000/v2/search?q=Reuters
+http://localhost:8000/v2/search?q=Develop
+
+http://localhost:8000/v2/top-headlines?category=general
+
+
+
+
