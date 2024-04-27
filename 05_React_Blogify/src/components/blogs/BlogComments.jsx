@@ -98,11 +98,20 @@ function BlogComments() {
 
         {state?.blogInfo?.comments?.map((comment) => (
           <div key={comment.id} className="flex items-start space-x-4 my-8">
-            <BlogProfile
-              avatar={comment?.author?.avatar}
-              firstName={comment?.author?.firstName}
-              bgColor={"bg-orange-600"}
-            />
+            {comment?.author?.id === auth?.user?.id ? (
+              <BlogProfile
+                avatar={auth?.user?.avatar}
+                firstName={auth?.user?.firstName}
+                bgColor={"bg-orange-600"}
+              />
+            ) : (
+              <BlogProfile
+                avatar={comment?.author?.avatar}
+                firstName={comment?.author?.firstName}
+                bgColor={"bg-orange-600"}
+              />
+            )}
+
             <div className="w-full">
               <h5 className="text-slate -500 font-bold">
                 {comment?.author?.firstName} {comment?.author?.lastName}

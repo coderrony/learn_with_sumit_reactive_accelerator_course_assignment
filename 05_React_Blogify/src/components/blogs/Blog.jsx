@@ -11,13 +11,15 @@ import useIsMe from "./../../hook/useIsMe";
 import BlogProfile from "./BlogProfile";
 import useAxios from "../../hook/useAxios";
 import ToastCall from "../../utils/ToastCall";
+import useAuth from "../../hook/useAuth";
 
 function Blog({ blog, deleteBlog }) {
   const [toggle, setToggle] = useState(false);
+  const { auth } = useAuth();
   const { requestApi } = useAxios();
 
   const navigate = useNavigate();
-
+  console.log(auth);
   // check each blog is my or not then i can delete and edit
   const { isMe } = useIsMe(blog?.author?.id);
 
@@ -73,11 +75,19 @@ function Blog({ blog, deleteBlog }) {
             <div className="flex items-center capitalize space-x-2">
               {/* blog post owner profile image */}
 
-              <BlogProfile
-                avatar={blog?.author?.avatar}
-                firstName={blog?.author?.firstName}
-                bgColor={"bg-orange-600"}
-              />
+              {isMe ? (
+                <BlogProfile
+                  avatar={auth?.user?.avatar}
+                  firstName={auth?.user?.firstName}
+                  bgColor={"bg-orange-600"}
+                />
+              ) : (
+                <BlogProfile
+                  avatar={blog?.author?.avatar}
+                  firstName={blog?.author?.firstName}
+                  bgColor={"bg-orange-600"}
+                />
+              )}
 
               <div>
                 <h5 className="text-slate-500 text-sm">

@@ -51,76 +51,24 @@
       "email": "salahuddin@learnwithsumit.com",
       "firstName": "Md",
       "lastName": "salahuddin",
-      "avatar": "avatar-1713869453203-587982381.png",
-      "bio": "some change made It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+      "avatar": "avatar-1714202715824-108621505.png",
+      "bio": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
       "password": "$2b$08$At/U5W1/ASt/F3zWCqOZnO75ftNVjwR.RVf0FEhEdQ0nHkll5tJ4m",
-      "favourites": [
-        {
-          "id": "acf2072cdf2219f30d33",
-          "title": " making it look like reada change",
-          "tags": "n,b"
-        },
-        {
-          "id": "f77b5c89d88f40dce13b",
-          "title": "sdgsfdg",
-          "tags": "fgfdg"
-        },
-        {
-          "id": "4321b782f360f58c8c88",
-          "title": "JSON Parse | Android | Java",
-          "tags": "android, java, kotlin, permission"
-        }
-      ]
-    },
-    {
-      "id": "1af22894607b18a6e020",
-      "email": "ronydas3030@gmail.com",
-      "firstName": "RONY",
-      "lastName": "DAS",
-      "avatar": null,
-      "bio": "change packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).",
-      "password": "$2b$08$/n7r/WmwWZakMuLrJGzdtOArU8KF6hJuL2FsngcDmjO5KFaOT5dwa",
-      "favourites": [
-        {
-          "id": "4321b782f360f58c8c86",
-          "title": "এন্ড্রয়েড পার্মিশন",
-          "tags": "android, java, kotlin, permission"
-        },
-        {
-          "id": "7c12b4b48531bcc995ae",
-          "title": "A guide to Prototype in JavaScript",
-          "tags": "programming, algorithm, prototype, javascript"
-        }
-      ]
-    },
-    {
-      "id": "f9db92fbee2f2d795239",
-      "email": "bjoy1@gmail.com",
-      "firstName": "Bjoy",
-      "lastName": "Sen",
-      "avatar": null,
-      "bio": "",
-      "password": "$2b$08$GLU/2fcEBtV0rb.szAbtweCuFX4G9gL2HWhT6XN3uFDjzJw6HKQsS",
       "favourites": []
     },
     {
-      "id": "6312bdcb839b6bd43409",
-      "email": "joy@gmail.com",
-      "firstName": "Joy",
-      "lastName": "De",
-      "avatar": "avatar-1714036142439-613697971.jpg",
-      "bio": "using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop p",
-      "password": "$2b$08$qALGNjhQHmQBeKr0CNHhDOAJVjSsYdZ1bCekr61QEWG/ayw/gUv4e",
+      "id": "b6d6b9611634fe6f9187",
+      "email": "ronydas3030@gmail.com",
+      "firstName": "RONY",
+      "lastName": "DAS",
+      "avatar": "avatar-1714202925656-974534483.jpg",
+      "bio": "d scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop p",
+      "password": "$2b$08$AoGqxEIW0RRK59uoIXZqnOAWmHp9bR4fahg.bAAcQEIqgFsqBzN1.",
       "favourites": [
         {
-          "id": "86590f6730a31c0d56d3",
-          "title": "not stop",
-          "tags": "run"
-        },
-        {
-          "id": "4321b782f360f58c8c86",
-          "title": "এন্ড্রয়েড পার্মিশন",
-          "tags": "android, java, kotlin, permission"
+          "id": "210470a416ea45b625b8",
+          "title": "Node.js back-end debugging process",
+          "tags": "programming, algorithm, prototype, javascript"
         }
       ]
     }
@@ -147,9 +95,6 @@
         },
         {
           "id": "3d2dde4b6548275fb066"
-        },
-        {
-          "id": "65aff389f1822a5e9f43"
         }
       ],
       "comments": [
@@ -182,109 +127,9 @@
             "lastName": "Hasan",
             "avatar": "avatar-1708764856675-623317122.jpg"
           }
-        },
-        {
-          "id": "14a341bcddce47613ac2",
-          "content": "one second comment",
-          "author": {
-            "id": "65aff389f1822a5e9f43",
-            "firstName": "Md",
-            "lastName": "salahuddin",
-            "avatar": "avatar-1713869453203-587982381.png"
-          }
         }
       ],
-      "createdAt": "2024-02-24T09:09:01.121Z",
-      "isFavourite": true
-    },
-    {
-      "id": "4321b782f360f58c8c86",
-      "title": "এন্ড্রয়েড পার্মিশন",
-      "content": "এন্ড্রয়েড ইউজারদের ললিপপ খাওয়ানোর পাশাপাশি তাদের নিরপত্তার বিষয়টি নিশ্চিত করতে ললিপপ ভার্সন থেকে রান টাইম পার্মিশন নামক একটি অদ্ভুত বস্তু গুগল তাদের খাতায় যোগ করেছে । যেখানে, কোনো এপ ডেভেলোপার যদি তার এপ ইউজারের Storage, Camera, Contacts, Locationঅথবা Microphone সহ অন্যান্য যেকোনো গুরুত্বপূর্ণ এরিয়াতে হাত দিতে চাইলে অবশ্যই ইউজার কতৃক পারমিশন নিয়ে তারপরেই হাতা হাতি করতে হবে । আমার মনে হয় গুগল বাংলাদেশের কথা ভেবেই এই বস্তুটি তাদের খাতায় যুক্ত করেছেন । কারণ, আমরা (৯০% মানুষ) আল্লাহর ওয়াস্তে আমাদের এপ কি কি পার্মিশন নিচ্ছে অথবা Terms & Condition এ কি লেখা আছে সেট না পড়েই সব কিছু তে Allow করে দেই (আমিও এর ব্যাতিক্রম নই 🤓 )। যেটা অনেকটা ঝুকিপূর্ণ, কারণ আমাদের কিছু ভাই রয়েছে (হ্যাকার) যারা RAT বা ট্রজান হর্স দিয়ে খুব সুন্দর করে ভিকটিমের ডেটা নিজের মনে করে চুরি করে নিতে পারে । তা আমি সে বিষয়ে কিছু না বলে আমরা এখানে দেখবো কিভাবে আমরা রানটাইম ইউজারের কাছে পার্মিশন নিতে পারবো । 😁 \n আগের ভার্সন গুলোর মতই আমাদের আগেই AndroidManifest.xml এ পার্মিশন গুলো উল্লেখ করে নিতে হবে",
-      "thumbnail": "thumbnail-1708765297564-606798153.png",
-      "author": {
-        "id": "3d2dde4b6548275fb066",
-        "firstName": "Saad",
-        "lastName": "Hasan",
-        "avatar": "avatar-1708764856675-623317122.jpg"
-      },
-      "tags": "android, java, kotlin, permission",
-      "likes": [
-        {
-          "id": "346d7a36b3c41f3fbfa2"
-        },
-        {
-          "id": "65aff389f1822a5e9f43"
-        },
-        {
-          "id": "1af22894607b18a6e020"
-        },
-        {
-          "id": "6312bdcb839b6bd43409"
-        }
-      ],
-      "comments": [
-        {
-          "id": "19becccf4ebf3e6cf385",
-          "content": "অনেক সুন্দর হয়েছে",
-          "author": {
-            "id": "346d7a36b3c41f3fbfa2",
-            "firstName": "Tapas",
-            "lastName": "Adhikary",
-            "avatar": "avatar-1708764766479-243448656.png"
-          }
-        },
-        {
-          "id": "df6d126ef750accbf955",
-          "content": "motivate me",
-          "author": {
-            "id": "6312bdcb839b6bd43409",
-            "firstName": "Joy",
-            "lastName": "De",
-            "avatar": "avatar-1714036142439-613697971.jpg"
-          }
-        }
-      ],
-      "createdAt": "2024-02-24T09:01:37.581Z",
-      "isFavourite": false
-    },
-    {
-      "id": "4321b782f360f58c8c88",
-      "title": "JSON Parse | Android | Java",
-      "content": "JSON stands for JavaScript Object Notation. It is structured, lightweight, human-readable and easy to parse. It’s the best alternative to XML when our android app needs to interchange data from the server. XML parsing is very complex as compare to JSON parsing. First, We have to understand how JSON works. JSON contains Objects, Arrays and key and value. An object is represented by Curly Braces: “{}”, Array is represented by Square Brackets: “[]” Everything between curly braces :{} is called JSON Object & everything between square brackets : [] is a JSON Object. A JSON object can contain different key-value pairs. The value of a key can be an Array. And Array may contain different Objects. And Multiple objects are separated by a comma. Seems difficult?\n\nNo, It’s not. See the Sample JSON file which will help you to understand it by your own and we will use this to fetch data. This JSON file is hosted on https://api.myjson.com/bins/xcuq8",
-      "thumbnail": "thumbnail-4321b782f360f58c8c86.webp",
-      "author": {
-        "id": "3d2dde4b6548275fb066",
-        "firstName": "Saad",
-        "lastName": "Hasan",
-        "avatar": "avatar-1708764856675-623317122.jpg"
-      },
-      "tags": "android, java, kotlin, permission",
-      "likes": [
-        {
-          "id": "346d7a36b3c41f3fbfa2"
-        },
-        {
-          "id": "65aff389f1822a5e9f43"
-        },
-        {
-          "id": "6312bdcb839b6bd43409"
-        }
-      ],
-      "comments": [
-        {
-          "id": "40a9478ce2f6a25341d6",
-          "content": "good blog\ni enjoyed",
-          "author": {
-            "id": "65aff389f1822a5e9f43",
-            "firstName": "Md",
-            "lastName": "salahuddin",
-            "avatar": "avatar-1713869453203-587982381.png"
-          }
-        }
-      ],
-      "createdAt": "2024-02-24T09:01:37.581Z",
-      "isFavourite": false
+      "createdAt": "2024-02-24T09:09:01.121Z"
     },
     {
       "id": "4321b782f360f58c8c85",
@@ -313,15 +158,37 @@
             "lastName": "Adhikary",
             "avatar": "avatar-1708764766479-243448656.png"
           }
-        },
+        }
+      ],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c86",
+      "title": "এন্ড্রয়েড পার্মিশন",
+      "content": "এন্ড্রয়েড ইউজারদের ললিপপ খাওয়ানোর পাশাপাশি তাদের নিরপত্তার বিষয়টি নিশ্চিত করতে ললিপপ ভার্সন থেকে রান টাইম পার্মিশন নামক একটি অদ্ভুত বস্তু গুগল তাদের খাতায় যোগ করেছে । যেখানে, কোনো এপ ডেভেলোপার যদি তার এপ ইউজারের Storage, Camera, Contacts, Locationঅথবা Microphone সহ অন্যান্য যেকোনো গুরুত্বপূর্ণ এরিয়াতে হাত দিতে চাইলে অবশ্যই ইউজার কতৃক পারমিশন নিয়ে তারপরেই হাতা হাতি করতে হবে । আমার মনে হয় গুগল বাংলাদেশের কথা ভেবেই এই বস্তুটি তাদের খাতায় যুক্ত করেছেন । কারণ, আমরা (৯০% মানুষ) আল্লাহর ওয়াস্তে আমাদের এপ কি কি পার্মিশন নিচ্ছে অথবা Terms & Condition এ কি লেখা আছে সেট না পড়েই সব কিছু তে Allow করে দেই (আমিও এর ব্যাতিক্রম নই 🤓 )। যেটা অনেকটা ঝুকিপূর্ণ, কারণ আমাদের কিছু ভাই রয়েছে (হ্যাকার) যারা RAT বা ট্রজান হর্স দিয়ে খুব সুন্দর করে ভিকটিমের ডেটা নিজের মনে করে চুরি করে নিতে পারে । তা আমি সে বিষয়ে কিছু না বলে আমরা এখানে দেখবো কিভাবে আমরা রানটাইম ইউজারের কাছে পার্মিশন নিতে পারবো । 😁 \n আগের ভার্সন গুলোর মতই আমাদের আগেই AndroidManifest.xml এ পার্মিশন গুলো উল্লেখ করে নিতে হবে",
+      "thumbnail": "thumbnail-1708765297564-606798153.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
         {
-          "id": "b07577d045fee5489bca",
-          "content": "new Comment",
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [
+        {
+          "id": "19becccf4ebf3e6cf385",
+          "content": "অনেক সুন্দর হয়েছে",
           "author": {
-            "id": "65aff389f1822a5e9f43",
-            "firstName": "Md",
-            "lastName": "salahuddin",
-            "avatar": "avatar-1713869453203-587982381.png"
+            "id": "346d7a36b3c41f3fbfa2",
+            "firstName": "Tapas",
+            "lastName": "Adhikary",
+            "avatar": "avatar-1708764766479-243448656.png"
           }
         }
       ],
@@ -333,6 +200,27 @@
       "title": "Create Custom Dialog with listview | Android | Java",
       "content": "Often we might need to create a custom dialog with listview to choose different kinds of actions for a particular option. In certain cases, we use such type of menu items for menus. So, In this post, I will show you how you can create this Custom Dialog with Listview :",
       "thumbnail": "thumbnail-1708765297564-606798153.png",
+      "author": {
+        "id": "3d2dde4b6548275fb066",
+        "firstName": "Saad",
+        "lastName": "Hasan",
+        "avatar": "avatar-1708764856675-623317122.jpg"
+      },
+      "tags": "android, java, kotlin, permission",
+      "likes": [
+        {
+          "id": "346d7a36b3c41f3fbfa2"
+        }
+      ],
+      "comments": [],
+      "createdAt": "2024-02-24T09:01:37.581Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4321b782f360f58c8c88",
+      "title": "JSON Parse | Android | Java",
+      "content": "JSON stands for JavaScript Object Notation. It is structured, lightweight, human-readable and easy to parse. It’s the best alternative to XML when our android app needs to interchange data from the server. XML parsing is very complex as compare to JSON parsing. First, We have to understand how JSON works. JSON contains Objects, Arrays and key and value. An object is represented by Curly Braces: “{}”, Array is represented by Square Brackets: “[]” Everything between curly braces :{} is called JSON Object & everything between square brackets : [] is a JSON Object. A JSON object can contain different key-value pairs. The value of a key can be an Array. And Array may contain different Objects. And Multiple objects are separated by a comma. Seems difficult?\n\nNo, It’s not. See the Sample JSON file which will help you to understand it by your own and we will use this to fetch data. This JSON file is hosted on https://api.myjson.com/bins/xcuq8",
+      "thumbnail": "thumbnail-4321b782f360f58c8c86.webp",
       "author": {
         "id": "3d2dde4b6548275fb066",
         "firstName": "Saad",
@@ -366,51 +254,30 @@
           "id": "346d7a36b3c41f3fbfa2"
         }
       ],
-      "comments": [
-        {
-          "id": "4e52ddfde2f0e826ea1c",
-          "content": "use Memo is advance terms",
-          "author": {
-            "id": "65aff389f1822a5e9f43",
-            "firstName": "Md",
-            "lastName": "salahuddin",
-            "avatar": "avatar-1713869453203-587982381.png"
-          }
-        }
-      ],
+      "comments": [],
       "createdAt": "2024-02-24T09:01:37.581Z",
       "isFavourite": false
     },
     {
-      "id": "1642b32415a13454b4af",
-      "title": "Ai Foodball",
-      "content": "orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuri",
-      "thumbnail": "thumbnail-1714121576882-103516569.jpeg",
+      "id": "67f1b9954251691b060b",
+      "title": "Sport",
+      "content": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before the final copy is available.",
+      "thumbnail": "thumbnail-1714202780125-369072956.png",
       "author": {
         "id": "65aff389f1822a5e9f43",
         "firstName": "Md",
         "lastName": "salahuddin",
-        "avatar": "avatar-1713869453203-587982381.png"
+        "avatar": "avatar-1714202715824-108621505.png"
       },
-      "tags": "sport,ball",
+      "tags": "football,cricket",
       "likes": [
         {
-          "id": "65aff389f1822a5e9f43"
+          "id": "b6d6b9611634fe6f9187"
         }
       ],
-      "comments": [
-        {
-          "id": "11f458f53d310475c240",
-          "content": "good",
-          "author": {
-            "id": "65aff389f1822a5e9f43",
-            "firstName": "Md",
-            "lastName": "salahuddin",
-            "avatar": "avatar-1713869453203-587982381.png"
-          }
-        }
-      ],
-      "createdAt": "2024-04-26T08:52:56.891Z"
+      "comments": [],
+      "createdAt": "2024-04-27T07:26:20.162Z",
+      "isFavourite": false
     },
     {
       "id": "6c33b31ecaa2b8917db2",
@@ -458,8 +325,7 @@
       "tags": "programming, algorithm, prototype, javascript",
       "likes": [],
       "comments": [],
-      "createdAt": "2024-02-24T16:59:13.363Z",
-      "isFavourite": false
+      "createdAt": "2024-02-24T16:59:13.363Z"
     },
     {
       "id": "210470a416ea45b625b8",
@@ -475,40 +341,25 @@
       "tags": "programming, algorithm, prototype, javascript",
       "likes": [],
       "comments": [],
-      "createdAt": "2024-02-24T17:06:43.629Z"
-    },
-    {
-      "id": "0c5b34faaad9da19da20",
-      "title": "football team",
-      "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page ",
-      "thumbnail": "thumbnail-1714044061255-767839472.jpeg",
-      "author": {
-        "id": "6312bdcb839b6bd43409",
-        "firstName": "Joy",
-        "lastName": "De",
-        "avatar": "avatar-1714036142439-613697971.jpg"
-      },
-      "tags": "football",
-      "likes": [],
-      "comments": [],
-      "createdAt": "2024-04-25T11:21:01.274Z",
+      "createdAt": "2024-02-24T17:06:43.629Z",
       "isFavourite": false
     },
     {
-      "id": "85b7c9803e1161c43cca",
-      "title": "trrey",
-      "content": "ruhtruy",
-      "thumbnail": "thumbnail-1714114896190-594063754.jpeg",
+      "id": "8cb6ed1d959392305494",
+      "title": "Ai New",
+      "content": "em Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various version",
+      "thumbnail": "thumbnail-1714202968739-405459025.jpeg",
       "author": {
-        "id": "1af22894607b18a6e020",
+        "id": "b6d6b9611634fe6f9187",
         "firstName": "RONY",
         "lastName": "DAS",
-        "avatar": null
+        "avatar": "avatar-1714202925656-974534483.jpg"
       },
-      "tags": "treu",
+      "tags": "ai,ml",
       "likes": [],
       "comments": [],
-      "createdAt": "2024-04-26T07:01:36.203Z"
+      "createdAt": "2024-04-27T07:29:28.753Z",
+      "isFavourite": false
     }
   ]
 }

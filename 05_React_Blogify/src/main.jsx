@@ -11,13 +11,11 @@ import BlogProvider from "./provider/BlogProvider.jsx";
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter>
-      <AuthProvider>
-        <BlogProvider>
-          <App />
-        </BlogProvider>
+    <AuthProvider>
+      <BlogProvider>
+        <App />
         <ToastContainer />
-      </AuthProvider>
-    </BrowserRouter>
+      </BlogProvider>
+    </AuthProvider>
   </React.StrictMode>
 );
