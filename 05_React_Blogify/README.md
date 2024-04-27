@@ -37,3 +37,5 @@
 Logged In অবস্থায় নেভিগেশন মেনুতে এগুলো দেখাবে - Write, Search, Logout, Loggedin User Name and Profile Picture
 Logged Out অবস্থায় নেভিগেশন মেনুতে এগুলো দেখাবে - Write, Login
 ✓ আপনাদের সার্চ Implement করতে হবে । সার্চের জন্যে API এবং Templete বানিয়ে দেয়া হয়েছে । Navbar থেকে সার্চ আইকন এ ক্লিক করলে সার্চ এর মোডাল ওপেন হবে । এখানে Search Modal এর জন্যে usePortal হুক ব্যবহার করতে হবে।
+
+## API Documentation: https://documenter.getpostman.com/view/9649334/2sA2rCU2NA
