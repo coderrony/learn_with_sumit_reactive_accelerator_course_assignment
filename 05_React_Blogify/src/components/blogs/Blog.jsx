@@ -44,7 +44,7 @@ function Blog({ blog, deleteBlog }) {
         setToggle(false);
       }
     } catch (err) {
-      ToastCall("error", "Something is wrong", "top-center");
+      // ToastCall("error", "Something is wrong", "top-center");
     }
   };
 

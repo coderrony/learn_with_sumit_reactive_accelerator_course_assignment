@@ -14,11 +14,11 @@ function PopularSide() {
           setBlogs(res.data.blogs);
         }
       } catch (err) {
-        ToastCall(
-          "error",
-          `Something is wrong on Must popular blogs ${err.message}`,
-          "top-center"
-        );
+        // ToastCall(
+        //   "error",
+        //   `Something is wrong on Must popular blogs ${err.message}`,
+        //   "top-center"
+        // );
       }
     };
     fetchBlogs();

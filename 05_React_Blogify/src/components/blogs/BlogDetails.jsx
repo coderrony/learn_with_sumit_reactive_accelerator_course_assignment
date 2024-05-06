@@ -24,11 +24,11 @@ function BlogDetails() {
           dispatch({ type: actions.blog.DATA_FETCHED, data: res.data });
         }
       } catch (err) {
-        ToastCall(
-          "error",
-          `Something is wrong on Blog Details ${err.message}`,
-          "top-center"
-        );
+        // ToastCall(
+        //   "error",
+        //   `Something is wrong on Blog Details ${err.message}`,
+        //   "top-center"
+        // );
 
         navigate("/");
       }

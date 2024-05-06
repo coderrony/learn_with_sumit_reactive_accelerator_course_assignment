@@ -16,9 +16,7 @@ function BlogsList() {
 
   const fetchBlogs = async () => {
     try {
-      const res = await requestApi.get(
-        `http://localhost:3000/blogs?page=${page}&limit=3`
-      );
+      const res = await requestApi.get(`/blogs?page=${page}&limit=3`);
 
       if (res.status === 200) {
         if (blogs.length >= res.data.total) {
@@ -31,7 +29,7 @@ function BlogsList() {
         }
       }
     } catch (err) {
-      ToastCall("error", `Something is wrong ${err.message}`, "bottom-center");
+      // ToastCall("error", `Something is wrong ${err.message}`, "bottom-center");
       setHasNext(false);
     }
   };
