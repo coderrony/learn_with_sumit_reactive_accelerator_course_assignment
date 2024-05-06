@@ -8,4 +8,4 @@
 
 ## Next Js Project
 
-#### ✔06_Shop_Center 🎈 <a href="https://nextjs-shop-center-one.vercel.app/" target="_blank
+#### ✔06_Shop_Center 🎈<a href="https://nextjs-shop-center-one.vercel.app/" target="_blank">link</a>  
