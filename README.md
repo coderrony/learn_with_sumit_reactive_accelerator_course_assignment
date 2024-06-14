@@ -7,5 +7,6 @@
 #### ✔04_News_Feeder 🎈 <a href="https://learn-with-sumit-reactive-accelerator-course-assignment-fjup.vercel.app/" target="_blank">link</a>  (check project description to run)
 #### ✔05_React_Blogify 🎈 <a href="https://662ca9ed6f5eac901188b8c3--hilarious-wisp-e59ae1.netlify.app/" target="_blank">link</a>  
 
-### Next Js Project
+### Next Js Application
 #### ✔06_Shop_Center 🎈<a href="https://nextjs-shop-center-one.vercel.app/" target="_blank">link</a>  
+#### ✔07_Movie_DB 🎈<a href="https://nextjs-movie-db-eight.vercel.app/en" target="_blank">link</a>  

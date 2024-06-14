@@ -41,8 +41,8 @@ const LanguageSwitcher = () => {
       language: lang === "en" ? "English" : "Bangla",
     });
     setShowManu(false);
-
-    router.push(path);
+    window.location.replace(path);
+   // router.push(path);
   };
 
   return (
